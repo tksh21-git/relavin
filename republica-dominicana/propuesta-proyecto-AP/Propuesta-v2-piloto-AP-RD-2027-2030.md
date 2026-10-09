@@ -31,7 +31,7 @@
 
 **Objetivo superior (2030)** — Que la asistencia personal dirigida por la persona esté **establecida como sistema en la República Dominicana**, con **un centro con sede propia** en funcionamiento.
 
-**Objetivo del proyecto (2028)** — **Presentar el caso dominicano junto con la OIT** ante la XVII Conferencia Regional sobre la Mujer, como una propuesta concreta dentro de la **década de acción 2025-2035**, establecida en el Compromiso de Tlatelolco (Conferencia de México, 2025):
+**Objetivo del proyecto (2028)** — **Presentar el caso dominicano junto con la OIT** ante la XVII Conferencia Regional sobre las Mujeres, como una propuesta concreta dentro de la **década de acción 2025-2035**, establecida en el Compromiso de Tlatelolco (Conferencia de México, 2025):
 
 > **7.** *Establecer una década de acción 2025-2035 en América Latina y el Caribe para acelerar el logro de la igualdad sustantiva de género y la sociedad del cuidado mediante transformaciones en los ámbitos político, económico, social, cultural y ambiental.*
 
@@ -78,7 +78,7 @@ Las tres primeras **arrancan a la vez**, no en secuencia.
 | **2027 · 3.º y 4.º trim.** | **Formación AP · Coordinación AP · Despacho AP** — las tres en paralelo |
 | **2028 · 1.º trim.** | **Visita de evaluación desde Costa Rica** — un año después de la capacitación |
 | **2028** | Análisis de datos y preparación de la Conferencia, **sin interrumpir el servicio** |
-| **2028 · (fecha por confirmar, previsiblemente 3.er trim.)** | **XVII Conferencia Regional sobre la Mujer** — presentación conjunta con la OIT |
+| **2028 · (fecha por confirmar, previsiblemente 3.er trim.)** | **XVII Conferencia Regional sobre las Mujeres** — presentación conjunta con la OIT |
 | **2028 →** | Evaluación de cierre y formulación del plan hacia 2030 |
 
 **Dos niveles de evaluación**

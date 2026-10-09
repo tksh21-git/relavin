@@ -34,5 +34,5 @@ Listado, por país y por orden cronológico, de las normas con rango de ley o re
 
 ---
 
-_Repositorio: <https://github.com/tksh21-githab/relavin/tree/main/mapa-regional>_
+_Repositorio: <https://github.com/tksh21-git/relavin/tree/main/mapa-regional>_
 _Coordinación: <relavin2024@gmail.com>_

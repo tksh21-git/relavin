@@ -85,6 +85,6 @@ Repetir la evaluación cuando: (a) CONADIS publique el **modelo del servicio de 
 - **DS N° 001-2026-MIMP** (8-abr-2026) — reforma del Reglamento: definición de AP (Arts. 3.38–3.39), servicio de AP (Art. 66-A), participación (Arts. 84-A, 85-A), cláusula educativa (Art. 34.h), piloto (5ª DCF)
 - Decreto Legislativo N° 1384 (2018) — reforma de la capacidad jurídica en el Código Civil
 - ACNUDH, *Herramienta de Evaluación a Nivel País* (2026), HR/PUB/25/3
-- Serie del observatorio: [CDMX](https://github.com/tksh21-githab/8M-Manifiesto/blob/main/Ley-CDMX-evaluacion-OHCHR.md) · [Sucre](../bolivia/Guia-complementar-Ley-493-OHCHR.md)
+- Serie del observatorio: [CDMX](https://github.com/tksh21-git/8M-Manifiesto/blob/main/Ley-CDMX-evaluacion-OHCHR.md) · [Sucre](../bolivia/Guia-complementar-Ley-493-OHCHR.md)
 
 *Documento de trabajo de RELAVIN — julio de 2026. Evaluación textual; no mide implementación.*

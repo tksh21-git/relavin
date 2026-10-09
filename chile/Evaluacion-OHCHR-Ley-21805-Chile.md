@@ -1,6 +1,6 @@
 # Chile evaluado con la Herramienta OHCHR — el nombre más avanzado, el contenido a medio camino
 
-**Evaluación técnica** · RELAVIN · julio de 2026 · **actualizada el 17 de septiembre de 2026 con las Observaciones finales del Comité CDPD (§7)** · Serie: observatorio de marcos de cuidados y apoyos ([Perú](../peru/Evaluacion-OHCHR-marco-peruano.md) · [Sucre](../bolivia/Guia-complementar-Ley-493-OHCHR.md) · [CDMX](https://github.com/tksh21-githab/8M-Manifiesto/blob/main/Ley-CDMX-evaluacion-OHCHR.md))
+**Evaluación técnica** · RELAVIN · julio de 2026 · **actualizada el 17 de septiembre de 2026 con las Observaciones finales del Comité CDPD (§7)** · Serie: observatorio de marcos de cuidados y apoyos ([Perú](../peru/Evaluacion-OHCHR-marco-peruano.md) · [Sucre](../bolivia/Guia-complementar-Ley-493-OHCHR.md) · [CDMX](https://github.com/tksh21-git/8M-Manifiesto/blob/main/Ley-CDMX-evaluacion-OHCHR.md))
 
 **Objeto evaluado:** **Ley N° 21.805** — "Reconoce el derecho al cuidado y crea el Sistema Nacional de Apoyos y Cuidados" (promulgada el 2 de febrero, publicada el **16 de febrero de 2026**; ~50 artículos + 6 transitorios), leída junto con la **Política Nacional de Apoyos y Cuidados 2025–2030** (Decreto N° 27 de 2024) y el **Plan Nacional de Apoyos y Cuidados 2025–2026** (marzo de 2025).
 **Instrumento:** *Herramienta de Evaluación a Nivel País* (ACNUDH, 2026, HR/PUB/25/3) — 13 indicadores de discapacidad. Evaluación del texto, no de la implementación.

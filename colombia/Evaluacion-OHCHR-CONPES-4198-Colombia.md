@@ -1,6 +1,6 @@
 # Colombia evaluado con la Herramienta OHCHR — la pila normativa más completa, la rectoría más frágil
 
-**Evaluación técnica** · RELAVIN · julio de 2026 · Serie: observatorio de marcos de cuidados y apoyos ([Perú](../peru/Evaluacion-OHCHR-marco-peruano.md) · [Chile](../chile/Evaluacion-OHCHR-Ley-21805-Chile.md) · [Sucre](../bolivia/Guia-complementar-Ley-493-OHCHR.md) · [CDMX](https://github.com/tksh21-githab/8M-Manifiesto/blob/main/Ley-CDMX-evaluacion-OHCHR.md))
+**Evaluación técnica** · RELAVIN · julio de 2026 · Serie: observatorio de marcos de cuidados y apoyos ([Perú](../peru/Evaluacion-OHCHR-marco-peruano.md) · [Chile](../chile/Evaluacion-OHCHR-Ley-21805-Chile.md) · [Sucre](../bolivia/Guia-complementar-Ley-493-OHCHR.md) · [CDMX](https://github.com/tksh21-git/8M-Manifiesto/blob/main/Ley-CDMX-evaluacion-OHCHR.md))
 
 **Objeto evaluado:** el marco colombiano de discapacidad y apoyos — **CONPES 4198** (Política Nacional de Discapacidad 2026–2035, aprobado el 9 de junio de 2026; 175 págs., 119 acciones, $5,66 billones COP), leído junto con la **Ley 1996 de 2019** (capacidad jurídica), la **Ley 2297 de 2023** (cuidadores y asistentes personales), la Ley Estatutaria 1618 de 2013 y la Ley 1145 de 2007 (SND).
 **Instrumento:** *Herramienta de Evaluación a Nivel País* (ACNUDH, 2026, HR/PUB/25/3). Evaluación textual; no mide implementación.
@@ -65,7 +65,7 @@ El CONPES asigna la coordinación al **Ministerio de Igualdad y Equidad como ent
 1. **Colombia confirma la hipótesis del observatorio en su versión más nítida**: el texto más alineado con el estándar ONU convive con la implementación más incierta. El contraste con el Perú es instructivo — Perú tiene menos retórica y más mecanismo (contrato directo de AP, piloto con fecha); Colombia tiene el mejor diagnóstico y la peor pregunta de "¿quién ejecuta?".
 2. **El autodiagnóstico del CONPES es munición**: que el documento oficial admita que los perfiles de AP no tienen esquema operativo, que el certificado es inaccesible para la mayoría y que la rectoría es frágil, permite a las organizaciones exigir sin que se les pueda responder que exageran.
 3. **Bogotá como laboratorio del puente**: el Sistema Distrital de Cuidado (Manzanas del Cuidado) es la única infraestructura donde cuidados y apoyos pueden encontrarse hoy en la práctica. Una experiencia piloto de asistencia personal articulada desde una Manzana — con los perfiles de la Ley 2297 — uniría los dos CONPES desde el territorio.
-4. **2028 pasa por aquí**: la XVII Conferencia Regional sobre la Mujer (Colombia) tendrá como anfitrión al país con la política de discapacidad más avanzada y el sistema de cuidado mejor financiado de la región — y con el puente entre ambos por construir. Documentar ese proceso es exactamente la agenda del Comité de Seguimiento del Compromiso de Tlatelolco.
+4. **2028 pasa por aquí**: la XVII Conferencia Regional sobre las Mujeres (Colombia) tendrá como anfitrión al país con la política de discapacidad más avanzada y el sistema de cuidado mejor financiado de la región — y con el puente entre ambos por construir. Documentar ese proceso es exactamente la agenda del Comité de Seguimiento del Compromiso de Tlatelolco.
 
 ## 6. Próxima medición
 

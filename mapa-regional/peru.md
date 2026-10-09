@@ -26,7 +26,7 @@ _Última actualización: 2026-05-27_
 ### Texto oficial y análisis
 
 - Texto en gob.pe: <https://www.gob.pe/institucion/mimp/normas-legales/7984297-001-2026-mimp>
-- Síntesis analítica: <https://github.com/tksh21-githab/estrategia-desinstitucionalizacion/blob/main/doc/Sintesis_DS_001-2026-MIMP.md>
+- Síntesis analítica: <https://github.com/tksh21-git/estrategia-desinstitucionalizacion/blob/main/doc/Sintesis_DS_001-2026-MIMP.md>
 
 ---
 
@@ -35,7 +35,7 @@ _Última actualización: 2026-05-27_
 - **Firmada:** 25 de abril de 2026 (publicada en El Peruano el 28/04/2026).
 - Aprueba la **Estrategia para la adecuada implementación del sistema de apoyos y salvaguardias para el ejercicio de la capacidad jurídica de las personas con discapacidad** — operacionaliza, ocho años después, el DL N° 1384 de 2018.
 - Cuatro objetivos específicos, cinco líneas de acción, plan 2025-2030.
-- Síntesis analítica: <https://github.com/tksh21-githab/estrategia-desinstitucionalizacion/blob/main/doc/Sintesis_RM_214-2026-MIMP.md>
+- Síntesis analítica: <https://github.com/tksh21-git/estrategia-desinstitucionalizacion/blob/main/doc/Sintesis_RM_214-2026-MIMP.md>
 
 ---
 

@@ -63,7 +63,7 @@ RELAVIN puede aportar las dos lecturas porque tiene evaluadas ambas con el mismo
 - **Segunda contraparte pública:** hasta ahora la propuesta preveía **CONADIS** como contraparte oficial ante la banca de desarrollo (§8). El **Ministerio de la Mujer** aparece ahora como una vía alternativa o complementaria.
 - **Cambia el marco del proyecto:** por CONADIS es «un proyecto de discapacidad»; por el Ministerio de la Mujer es **«un proyecto de economía del cuidado y género»** — que es exactamente la prioridad declarada del BID y de la CAF (§8-bis).
 - **CIMUDIS no es solo ejecutor técnico** (§7): ya funciona como interlocutor político del Ministerio. Conviene reflejarlo.
-- **Coherencia con FEMIDISCA 2028:** si el caso dominicano se sostiene sobre la agenda de género, entra con naturalidad en el marco de la XVII Conferencia Regional sobre la Mujer (Colombia 2028).
+- **Coherencia con FEMIDISCA 2028:** si el caso dominicano se sostiene sobre la agenda de género, entra con naturalidad en el marco de la XVII Conferencia Regional sobre las Mujeres (Colombia 2028).
 
 ---
 

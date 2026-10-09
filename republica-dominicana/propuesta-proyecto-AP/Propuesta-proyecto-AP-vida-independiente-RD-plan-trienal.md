@@ -1,6 +1,6 @@
 # Propuesta de proyecto (BORRADOR) — Vida independiente y asistencia personal dirigida por la persona en el Sistema de Cuidados de la República Dominicana
 
-**Plan trienal 2027–2029 · rumbo a la XVII Conferencia Regional sobre la Mujer (CEPAL, Colombia, 2028) y a los ODS 2030**
+**Plan trienal 2027–2029 · rumbo a la XVII Conferencia Regional sobre las Mujeres (CEPAL, Colombia, 2028) y a los ODS 2030**
 
 **Documento de trabajo (borrador inicial — para discutir y afinar)** · RELAVIN · julio de 2026
 
