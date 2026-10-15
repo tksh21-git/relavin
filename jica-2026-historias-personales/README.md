@@ -6,7 +6,11 @@ Presentaciones de las participantes latinoamericanas del Curso de Vida Independi
 - [**María Concepción Soza, «Conchita»** (Nicaragua)](conchita-nicaragua.md)
 - [**Andrea Medina, «Neya»** (Chile) — *Construyendo inclusión desde Chile al mundo*](andrea-medina-chile.md)
 
-Transcripción automática (whisper.cpp), revisada para dejar solo lo que cada participante narró en español. Se omitieron la interpretación al japonés y la sesión de preguntas. [?] = palabra dudosa; […] = fragmento inaudible.
+Y la historia que les contó, a pedido de Sara, una integrante del personal de Mainstream:
+
+- [**Emi Yamamura** (Japón) — *Mi vida independiente*](emi-yamamura-japon.md) · [original en japonés](emi-yamamura-japon-original.md)
+
+Las tres primeras: transcripción automática (whisper.cpp), revisada para dejar solo lo que cada participante narró en español. Se omitieron la interpretación al japonés y la sesión de preguntas. [?] = palabra dudosa; […] = fragmento inaudible.
 
 ---
 
