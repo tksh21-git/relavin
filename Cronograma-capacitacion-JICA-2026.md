@@ -3,10 +3,10 @@
 **Programa de capacitación sobre vida independiente** (Japón + Costa Rica)
 Traducción al español del documento original en japonés (`中南米日程表2026（最新）.pdf`, 研修日程表, 3 páginas).
 
-> 🔄 **Versión actualizada (octubre de 2026).** Reemplaza al cronograma preliminar de julio. Cambiaron varios docentes, se movieron algunas sesiones (ILP y apoyo entre pares, la CDPD y la vida independiente, el día libre del 21/22) y cambió el traslado a Costa Rica. Ver «Cambios respecto de la versión anterior» al final.
+> 🔄 **Versión actualizada (octubre de 2026).** Reemplaza al cronograma preliminar de julio. Cambiaron varios docentes, se movieron algunas sesiones (ILP y apoyo entre pares, la CDPD y la vida independiente, el día libre del 21/22) y se ajustaron las fechas de Costa Rica a la agenda del CVI Morpho. Ver «Cambios respecto de la versión anterior» al final.
 
 - **Fase Japón**: Asociación Mainstream (MSA), Nishinomiya — 5 al 28 de octubre
-- **Fase Costa Rica**: Morpho, Pérez Zeledón / San José — 31 de octubre al 11 de noviembre
+- **Fase Costa Rica**: Morpho, Pérez Zeledón / San José — 30 de octubre al 13 de noviembre (según la agenda del CVI Morpho)
 
 **Tipos de sesión**: Clase (講義) / Práctica (実習) / Discusión (討議) / Presentación (発表) / Visita (見学)
 
@@ -74,10 +74,12 @@ Traducción al español del documento original en japonés (`中南米日程表2
 
 | Fecha | Contenido |
 |---|---|
-| 29/10 (jue) | Traslado |
-| 30/10 (vie) | Traslado |
-| 31/10 (sáb) | Traslado a Pérez Zeledón |
-| 1/11 (dom) | Día libre |
+| 29/10 (jue) | Traslado (salida de Japón) |
+| 30/10 (vie) | Llegada a Costa Rica |
+| 31/10 (sáb) | Día de descanso en San José |
+| 1/11 (dom) | Traslado a Pérez Zeledón (11:00–15:00, almuerzo en el camino) |
+
+> Estos días siguen la **agenda del CVI Morpho**, confirmada. El original japonés de octubre indica otro orden (traslado a Pérez Zeledón el 31 y día libre el 1/11), pero **vale la agenda de Morpho**.
 
 ---
 
@@ -101,7 +103,7 @@ Traducción al español del documento original en japonés (`中南米日程表2
 | | 17:00– | | Fiesta de despedida |
 | 9/11 (lun) | 9:00– | | Traslado a San José |
 | 10/11 (mar) | 9:00– | | Ceremonia de clausura |
-| 11/11 (mié) | | | Regreso a los países |
+| 11/11 (mié) – 13/11 (vie) | | | Regreso a los países según el vuelo (la agenda de Morpho indica como último día el viernes 13 de noviembre) |
 
 ---
 
@@ -115,7 +117,7 @@ Traducción al español del documento original en japonés (`中南米日程表2
 - **21/10**: ahora es **la CDPD y la vida independiente** (antes: día libre).
 - **22/10**: ahora es **día libre** (antes: ILP y apoyo entre pares).
 - **25/10**: se agrega una sesión de mañana con **Park Chan-o** (sin título en el original); la gestión del CVI empieza a las 13:30.
-- **Traslado a Costa Rica**: el 29 y el 30 son de traslado; **el traslado a Pérez Zeledón pasa al sábado 31**, y el **domingo 1/11 es día libre** (antes: 31 libre en San José y 1/11 traslado a Pérez Zeledón).
+- **Traslado a Costa Rica**: el original japonés de octubre cambió el orden (traslado a Pérez Zeledón el 31, libre el 1/11), pero **la agenda del CVI Morpho mantiene el orden anterior** —llegada el 30, descanso en San José el 31 y traslado a Pérez Zeledón el 1/11— y es la que vale. El último día es el viernes 13 de noviembre.
 
 ## Notas de la traducción
 
