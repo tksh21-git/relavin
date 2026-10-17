@@ -20,7 +20,7 @@ Curso No. **202517145J001** · AF 2026
 | **Enfoque** | El Curso B se centra en la **Vida Independiente (Art. 19 de la CDPD)** — filosofía y práctica del movimiento, centros de vida independiente, asistencia personal, consejería entre pares |
 | **Costos** | JICA cubre pasaje aéreo, hospedaje, asignación para alimentación y estadía, materiales y traslados del programa |
 
-El cronograma detallado de las sesiones está en [Cronograma de la capacitación](Cronograma-capacitacion-JICA-2026.md) — las fechas ya coinciden con esta convocatoria oficial.
+El cronograma detallado de las sesiones está en [Cronograma de la capacitación](Cronograma-capacitacion-JICA-2026.md) (actualizado en octubre de 2026, con los cambios de docentes y sesiones).
 
 ## ¿Quién puede postular?
 
