@@ -15,7 +15,7 @@ _Última actualización: 13 de noviembre de 2026. Las actividades marcadas como 
 | Mié 25 | tarde | Reunión con la Presidencia del CONADIS | CONADIS | Solicitada |
 | Jue 26 | 10:00 | Reunión en JICA Perú | Oficina de JICA Perú | Confirmado |
 | Jue 26 | 15:00 – 17:00 | Sesión de cocreación del Modelo de Servicio de Asistencia Personal | CONADIS, sede Paseo de la República | Confirmado |
-| Dom 29 | — | Salida hacia Santiago de Chile | — | — |
+| Dom 29 | 23:50 | Salida hacia Santiago de Chile (LATAM LA509) | Aeropuerto Jorge Chávez | Confirmado |
 
 ---
 
