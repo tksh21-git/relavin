@@ -197,6 +197,7 @@ Colombia sería la primera, porque es el país donde la distancia entre las part
 | **Reforma del art. 42 del PL 003**: «garantizará» en lugar de «promoverá»; definición de AP; asignación individual según necesidad; vínculo con el Fondo de la Ley 2456 | Comisión Séptima de la Cámara y ponentes | Gaceta 1277/2026; CDPD art. 19 | Antes del primer debate |
 | **CONPES 4198 en el Plan Nacional de Desarrollo** | DNP y Congreso | Bases del PND 2026-2030 | Durante la formulación y el trámite del PND |
 | **Visibilidad regional** | CEPAL y ONU Mujeres, con Colombia como sede de la XVII Conferencia Regional sobre las Mujeres (2028) | Compromiso de Tlatelolco, §30 y §27 | 68.ª Mesa Directiva (dic-2026) y camino a 2028 |
+| **Informe alternativo al Comité CDPD** | Comité CDPD (Ginebra) | Examen pendiente del informe CRPD/C/COL/2-4; observaciones finales de 2016, párrs. 48–49 (§9) | Cuando el Comité fije la fecha del examen |
 
 ### 8.3 Estar en el Congreso: aprender de las cuidadoras
 
@@ -222,6 +223,35 @@ Si solo hubiera fuerza para una cosa, empezar por el **derecho de petición**. E
 
 ---
 
+## 9. Contraste con las observaciones finales del Comité CDPD (2016)
+
+El último examen de Colombia fue el del informe inicial, con las observaciones finales **CRPD/C/COL/CO/1** (31 de agosto de 2016). El informe combinado segundo a cuarto (CRPD/C/COL/2-4) se recibió en junio de 2021 y se publicó en octubre de 2023; **el examen sigue pendiente**. Diez años después, las recomendaciones de 2016 permiten medir qué cambió.
+
+| Párr. | Lo que pidió el Comité en 2016 | Situación a noviembre de 2026 | Indicador |
+|---|---|---|---|
+| **6–7, 30–31** | Derogar las normas que restringen la capacidad jurídica (incluida la Ley 1306 de 2009) y crear apoyos para decidir | ✅ **Cumplida en el texto**: la Ley 1996 de 2019 prohibió la interdicción. Implementación ⚠️ (§7.4) | 3.3.1 |
+| **63 b** | Eliminar la interdicción como requisito para la protección social; programas que cubran los **gastos adicionales** de la discapacidad | ✅ Interdicción eliminada (Ley 1996). La transferencia individual del Decreto 0996 responde en el texto, pero ❌ no ha empezado | 1.3.2 |
+| **48–49** | «No se ha iniciado la transición» desde las instituciones; **falta de servicios de asistencia personal**. Plan de desinstitucionalización con plazos y recursos; apoyos, **incluida la asistencia personal**, en todos los niveles, incluidas las alcaldías | ❌ **La frase de 2016 sigue siendo exacta en 2026.** El CONPES 4198 recogió la desinstitucionalización y los apoyos en el texto, pero no hay servicio de AP ni plan de transición en marcha. La Ley 2456 no prevé la AP entre los destinos de su Fondo | 1.2.3, 3.3.2 |
+| **37** | Prohibir explícitamente la institucionalización forzada por motivo de discapacidad | ⚠️ La jurisprudencia la limita a *ultima ratio*; sin prohibición legal expresa | 3.3.2 |
+| **10–11** | Consulta amplia con las organizaciones; recursos del SND para la participación; designar a todos los representantes de la sociedad civil en el CND | ❌ **Retroceso**: en 2026, el CND aparece suspendido y el PL 003 avanza sin participación suficiente (Coalición CDPD, §7.2) | Participación |
+| **16–17** | Incluir a las mujeres con discapacidad en las políticas de la mujer | ⚠️ Las políticas de cuidado avanzaron (CONPES 4143), pero el órgano de igualdad se liquidó | — |
+| **20–21** | Campañas con enfoque de derechos, no de caridad | ❌ Sin información de ejecución | 3.1.2 |
+| **22–23** | Plan nacional de accesibilidad con plazos y sanciones | ⚠️ Recogido en el CONPES 4198 (OE2); ejecución sin seguimiento conocido | 1.1.4 |
+| **62–63 c** | Prioridad para personas con discapacidad en la vivienda social | ❌ Sin programa específico | 1.1.7 |
+| **68–69** | Estadísticas desglosadas, **incluido el tipo de residencia o institucionalización** | ⚠️ RLCPD y DANE operan; no se conocen datos de institucionalización | 3.2.1 |
+| **72–73** | Designar el mecanismo independiente de monitoreo (art. 33.2) | Sin verificar en esta evaluación | — |
+
+Las recomendaciones de seguimiento prioritario de 2016 (párrs. 29, víctimas del conflicto, y 47, esterilización sin consentimiento) están fuera del alcance de esta evaluación.
+
+**Lectura.**
+
+1. **Lo que Colombia sí cumplió, lo cumplió con ley.** La recomendación sobre capacidad jurídica se convirtió en la Ley 1996 de 2019, una de las más avanzadas del mundo. Es la prueba de que el país puede pasar de la recomendación a la norma, y de la norma a la práctica.
+2. **La recomendación sobre vida independiente no se movió en diez años.** En 2016, el Comité escribió que no se había iniciado la transición y que faltaban servicios de asistencia personal. Las dos afirmaciones siguen siendo ciertas en 2026. Lo que cambió es el texto (CONPES 4198), no la realidad.
+3. **En participación, Colombia está peor que en 2016.** El Comité pedía fortalecer el CND; hoy el CND aparece suspendido.
+4. **El examen pendiente es una oportunidad.** Cuando el Comité fije la fecha del examen del informe 2-4, las organizaciones podrán presentar un **informe alternativo**. Esta evaluación, con la doble medición y la cartilla, puede servir de base.
+
+---
+
 ## Referencias
 
 - CONPES 4198 (9-jun-2026) — Política Nacional de Discapacidad 2026–2035
@@ -233,5 +263,6 @@ Si solo hubiera fuerza para una cosa, empezar por el **derecho de petición**. E
 - Proyecto de Ley 003 de 2026 Cámara — ponencia para primer debate, Gaceta del Congreso 1277 (15-sep-2026)
 - Decreto 0626 de 2026 (liquidación del Ministerio de Igualdad y Equidad)
 - Coalición Colombiana por la Implementación de la CDPD, *Comunicado ante la incertidumbre institucional en discapacidad en Colombia* (Bogotá, 13-nov-2026)
+- Comité CDPD, *Observaciones finales sobre el informe inicial de Colombia*, CRPD/C/COL/CO/1 (31-ago-2016) · Informe combinado segundo a cuarto de Colombia, CRPD/C/COL/2-4 (recibido en junio de 2021)
 
 *Documento de trabajo de RELAVIN — julio de 2026; actualizado en noviembre de 2026.*

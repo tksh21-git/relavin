@@ -186,12 +186,46 @@ Las residencias pequeñas no se corrigen solo con normas. Quien mejor puede acom
 
 ---
 
+## 9. Contraste con las observaciones finales del Comité CDPD (2023)
+
+El Comité examinó al Perú en su 28.º período de sesiones y aprobó las observaciones finales **CRPD/C/PER/CO/2-3** (29 de noviembre de 2023). Señaló tres recomendaciones **urgentes** (párr. 68): la **25** (capacidad jurídica), la **39** (vida independiente) y la **49** (educación inclusiva). El próximo examen está previsto para 2037.
+
+| Párr. | Lo que pide el Comité | Situación a noviembre de 2026 | Indicador |
+|---|---|---|---|
+| **39 c** ★ | Reconocer legalmente el **derecho a la asistencia personal**, que el Estado garantice y **financie**, con autonomía, control y elección del lugar de residencia | ⚠️ El DS 001-2026-MIMP definió la AP con contrato directo y dirección de la persona; el modelo está en cocreación. **Falta:** rango de ley, el derecho exigible y el financiamiento («sin recursos adicionales») | 1.2.3 |
+| **39 a** ★ | Estrategia nacional de desinstitucionalización **con las organizaciones**, con plazos y recursos; alternativas de vivienda en la comunidad; redes de apoyo, **incluido el apoyo entre pares** | ⚠️ Hay estrategia del CONADIS, pero las salidas van hacia residencias más pequeñas (§7.1). El apoyo entre pares que pide el Comité es la base de la §8.3 | 3.3.2 |
+| **38 b – 39 b** ★ | Desinstitucionalizar también los **hogares protegidos**; comisión de investigación con la Defensoría y las organizaciones | ❌ Sin comisión conocida. El Informe 233 de la Defensoría (2025) documentó la situación, pero los hogares protegidos siguen como destino | 3.3.2 |
+| **25** ★ | Estrategia del sistema de apoyos y salvaguardias, **con financiación de redes comunitarias de apoyo**; restituir la capacidad a quienes siguen bajo interdicción; capacitar a jueces y notarios | ⚠️ El DL 1384 está vigente, pero el Comité ya constató en 2023 su «escasa aplicación». No se conoce la estrategia | 3.3.1 |
+| **7 b** | Recursos suficientes para que las políticas de discapacidad no sean «inoperantes» | ❌ El DS 001 se financia «sin demandar recursos adicionales» | 1.2.3, 1.3.2 |
+| **7 f** | Superar el modelo médico en la certificación; atender los **requerimientos de apoyo** | ⚠️ Sin cambio conocido. La evaluación de necesidades de apoyo puede definirse en el modelo de AP | 3.2.3 |
+| **17** | Campañas con enfoque de derechos; no financiar iniciativas de tipo caritativo (Teletón) | ❌ Sin campañas sistemáticas conocidas | 3.1.2 |
+| **19** | Ley vinculante de accesibilidad, también en el transporte; uso del 0,5% regional y local | ⚠️ Sin información de cambios | 1.1.4 |
+| **41** | Estrategia nacional de **tecnologías de asistencia**, con ayuda financiera | ❌ El Comité confirmó en 2023 la falta de estrategia | 1.1.5 |
+| **57** | Reformar CONTIGO: costo adicional de la discapacidad en la focalización; no perder la pensión al trabajar; programas de vivienda | ⚠️ CONTIGO sigue solo para discapacidad severa en pobreza | 1.3.2, 1.1.7 |
+| **63** | Segunda Encuesta Nacional Especializada sobre Discapacidad | ⚠️ Sin información | 3.2.1 |
+| **67 a** | Fortalecer el CONADIS; elegir a su presidencia, el Consejo Consultivo y la representación de la sociedad civil | ⚠️ La presidencia sigue designada temporalmente (DT) | Participación |
+
+★ = recomendación urgente según el párr. 68.
+
+**Lectura.**
+
+1. **El Comité y esta evaluación miran lo mismo.** De las tres recomendaciones urgentes, dos (la 25 y la 39) son exactamente los indicadores centrales de esta evaluación: capacidad jurídica y vida independiente.
+2. **La 39 c es la que más avanzó, y en el orden correcto.** En 2023, el Comité criticó que los proyectos de ley de AP carecieran de «voluntad y preferencias». El DS 001-2026-MIMP respondió con una definición que pone a la persona al mando. Faltan las dos partes que el Comité pidió con la misma fuerza: **el derecho exigible y el financiamiento**.
+3. **El Comité ya pedía el apoyo entre pares.** La recomendación de la §8.3 (organizaciones como actoras de la transición) no es una idea nueva de RELAVIN: está en el párr. 39 a.
+4. **Catorce años entre exámenes.** Con el próximo examen en 2037, el seguimiento no puede esperar al Comité. La cocreación del modelo, el seguimiento mensual del plan de acción con JICA y el monitoreo de las organizaciones son, en la práctica, los mecanismos de seguimiento que existen.
+
+---
+
 ## Referencias
 
 - Ley N° 29973 — Ley General de la Persona con Discapacidad (2012) y su Reglamento (DS 002-2014-MIMP)
 - **DS N° 001-2026-MIMP** (8-abr-2026) — reforma del Reglamento: definición de AP (Arts. 3.38–3.39), servicio de AP (Art. 66-A), participación (Arts. 84-A, 85-A), cláusula educativa (Art. 34.h), piloto (5ª DCF)
 - Decreto Legislativo N° 1384 (2018) — reforma de la capacidad jurídica en el Código Civil
 - ACNUDH, *Herramienta de Evaluación a Nivel País* (2026), HR/PUB/25/3
+- Comité CDPD, *Observaciones finales sobre los informes periódicos segundo y tercero combinados del Perú*, CRPD/C/PER/CO/2-3 (29-nov-2023)
+- Comité CDPD, Observación general n.º 5 (2017) y *Directrices sobre la desinstitucionalización*, CRPD/C/5 (2022)
+- Defensoría del Pueblo, Informe Defensorial n.º 233 (enero de 2025) — supervisión nacional de hogares protegidos
+- PuntoEdu PUCP (9-oct-2026), sobre el plan de acción para el modelo de AP
 - Serie del observatorio: [CDMX](https://github.com/tksh21-git/8M-Manifiesto/blob/main/Ley-CDMX-evaluacion-OHCHR.md) · [Sucre](../bolivia/Guia-complementar-Ley-493-OHCHR.md)
 
 *Documento de trabajo de RELAVIN — julio de 2026; actualizado en noviembre de 2026 con la medición de la implementación.*
