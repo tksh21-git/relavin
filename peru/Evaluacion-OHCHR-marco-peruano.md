@@ -90,7 +90,11 @@ Repetir la evaluación cuando: (a) CONADIS publique el **modelo del servicio de 
 - **Hay un plan con fecha.** La especialista del CONADIS a cargo del proceso, ex becaria del curso de JICA en Okinawa (2026), se propuso **lograr la aprobación del modelo en 2027**. Los pasos son: un documento técnico (requisitos del asistente, naturaleza y componentes del servicio, población objetivo, entidades responsables), cocreación con las personas con discapacidad *antes* de la consulta, diálogo con las organizaciones y aprobación. JICA Perú y JICA Okinawa dan **seguimiento mensual** al plan, con un horizonte de hasta dos años. *(Fuente: PuntoEdu PUCP, 9-oct-2026.)*
 - **El plazo de 180 días venció sin modelo aprobado.** El Art. 66-A.2 daba 180 días desde el DS 001-2026-MIMP (8-abr-2026), es decir, hasta comienzos de octubre de 2026. No hay noticia pública del **piloto de 2026** (5ª DCF).
 - **Se teje una red de ex becarias y ex becarios en las instituciones.** Hay personas formadas en los cursos de JICA en el CONADIS, en el Ministerio de Salud, en el movimiento de vida independiente de Lima y al frente del **CVI Vida Propia** (Arequipa). Vida Propia quedó inscrito en SUNARP en junio de 2026 y trabaja con universidades de la región (UTP, Universidad Continental).
-- **El riesgo de la transinstitucionalización sigue abierto.** Una ruta posible para la desinstitucionalización es el paso de los CAR a los **hogares protegidos** del MINSA (NTS N.° 140). En 2023, el Comité CDPD señaló esos hogares como lugares *de los que* también hay que desinstitucionalizar (CRPD/C/PER/CO/2-3, párr. 38 b). En su Informe 233 (enero de 2025), la Defensoría del Pueblo encontró que en el 87% se requiere permiso para salir y que en el 61% los dormitorios se cierran por fuera.
+- **El riesgo de la transinstitucionalización sigue abierto.** Las salidas de las instituciones suelen terminar en **residencias más pequeñas**, no en una vida en la comunidad con apoyos. Pasa en las dos vías:
+  - **Salud mental:** al egresar de los hospitales psiquiátricos, el destino previsto son los **hogares protegidos** del MINSA (NTS N.° 140). En 2023, el Comité CDPD los señaló como lugares *de los que* también hay que desinstitucionalizar (CRPD/C/PER/CO/2-3, párr. 38 b). En su Informe 233 (enero de 2025), la Defensoría del Pueblo encontró que en el 87% se requiere permiso para salir y que en el 61% los dormitorios se cierran por fuera.
+  - **Protección social:** al salir de los centros de atención residencial, las personas pasan a pequeñas residencias que se presentan como de **«vida independiente»**. Eso no resuelve el problema de fondo.
+
+  Para la CDPD, ni el tamaño ni el nombre convierten una residencia en vida independiente. La Observación general n.º 5 (párr. 16 c) lo dice expresamente: tampoco los hogares pequeños, si conservan los rasgos de una institución. Las Directrices sobre la desinstitucionalización (CRPD/C/5, 2022) dan los criterios: elegir dónde y con quién vivir, apoyos separados de la vivienda y control de la propia vida diaria. Una residencia que no cumple estos criterios es contraria a la Convención, aunque lleve ese nombre.
 
 ### 7.2 Doble medición: texto e implementación
 
@@ -102,7 +106,7 @@ Escala: ✅ = 1 · ⚠️ = 0,5 (funciona en parte, o hay un proceso formal en c
 |---|---|---|---|
 | 1.2.3 | **Apoyo humano** | ⚠️ Parcial-alto | ⚠️ El servicio aún no existe, pero el modelo está en cocreación con responsable (CONADIS-DPSGE) y meta (2027). El plazo de 180 días venció; no hay noticia del piloto |
 | 3.3.1 | **Capacidad jurídica** | ✅ DL 1384 | ⚠️ En vigor y aplicada desde 2018, con brechas de acceso a los apoyos judiciales y notariales |
-| 3.3.2 | **Desinstitucionalización** | ⚠️ Parcial | ⚠️ Estrategia del CONADIS en marcha, pero con riesgo de transinstitucionalización hacia los hogares protegidos (§7.1) |
+| 3.3.2 | **Desinstitucionalización** | ⚠️ Parcial | ⚠️ Hay salidas de instituciones, pero hacia residencias más pequeñas (hogares protegidos del MINSA y residencias llamadas «de vida independiente»), no hacia la vida en la comunidad con apoyos (§7.1) |
 | 1.1.4 | Transporte | ⚠️ | ⚠️ Prov. Implementación desigual |
 | 1.1.5 | Tecnología de apoyo | ⚠️ | ❌ Prov. Sin programa universal |
 | 1.1.7 | Vivienda | ⚠️ | ⚠️ Prov. Preferencias en programas públicos de vivienda |
@@ -122,7 +126,7 @@ Escala: ✅ = 1 · ⚠️ = 0,5 (funciona en parte, o hay un proceso formal en c
 2. **Lo que se juega ahora es el contenido del modelo.** Que exista un proceso no garantiza un buen resultado. El documento técnico decidirá si la AP peruana conserva lo que ya ganó en la norma (contrato directo, dirección de la persona, servicio intransferible) o lo pierde en la operación. Hay tres preguntas abiertas:
    - **¿Quién elige al asistente?** La definición de la convocatoria nombra el «qué, cuándo y cómo», pero no el «quién», que es el núcleo del art. 19 de la CDPD.
    - **¿Con qué dinero?** El DS 001 dice «sin demandar recursos adicionales» (§3).
-   - **¿Hacia dónde se desinstitucionaliza?** Si el destino son los hogares protegidos, no es desinstitucionalización (§7.1).
+   - **¿Hacia dónde se desinstitucionaliza?** Si el destino es una residencia más pequeña —un hogar protegido o un hogar que se llame «de vida independiente»—, no es desinstitucionalización (§7.1). La AP es justamente lo que permite salir a una vivienda propia o elegida.
 3. **El seguimiento de JICA es un mecanismo de rendición de cuentas.** Un plan de acción con seguimiento mensual y horizonte de dos años da al proceso una continuidad que no depende solo de los cambios en el CONADIS, cuya presidencia por cinco años se elegirá próximamente.
 
 ---
@@ -137,7 +141,7 @@ En Colombia, la tarea es **conseguir que alguien ejecute**. En el Perú, la tare
 
 1. **El modelo debe decir quién elige.** La persona con discapacidad elige, contrata y dirige a su asistente. Eso ya está en la norma (Arts. 3.38–3.39); el modelo no puede rebajarlo.
 2. **Necesidad, no grado.** Las horas de apoyo se deciden según lo que la persona necesita para su vida, no según el grado de su certificado.
-3. **Comunidad, no hogar protegido.** El destino de la desinstitucionalización es la vida en la comunidad con apoyos, no otro tipo de institución.
+3. **Vivir en la comunidad, no en una residencia más pequeña.** El destino de la desinstitucionalización es una vivienda elegida por la persona, con apoyos que no dependan del lugar donde vive. Ni el tamaño ni el nombre «vida independiente» convierten una residencia en vida independiente.
 
 ### 8.2 Mapa de negociación
 
@@ -147,7 +151,7 @@ En Colombia, la tarea es **conseguir que alguien ejecute**. En el Perú, la tare
 | **Centros de vida independiente como prestadores** del servicio y del piloto | CONADIS y gobiernos regionales (empezando por Arequipa, con Vida Propia) | Art. 66-A.3.b («servicios comunitarios orientados a promover la vida independiente») | Diseño del piloto |
 | **Financiamiento**: partida propia para la AP, no solo el «presupuesto institucional» | MIMP, MEF y Congreso | Superar el Art. 4 del DS 001; experiencia comparada de la OIT (Costa Rica, República Dominicana) | Presupuesto 2027–2028 |
 | **Participación de personas usuarias en la consulta formal**, no solo en la cocreación | CONADIS | Art. 84-A; CRPD/C/PER/CO/2-3, párr. 39 | Al pasar a la consulta |
-| **Hogares protegidos con enfoque de autonomía y como tránsito, no como destino** | MINSA (NTS N.° 140) y CONADIS | Defensoría del Pueblo, Informe 233; CRPD/C/PER/CO/2-3, párr. 38 b y 39 | Revisión de la NTS 140 y de la estrategia de desinstitucionalización |
+| **Desinstitucionalización hacia la comunidad, no hacia residencias más pequeñas**: incluir en la estrategia del CONADIS y en la NTS 140 los criterios de la CDPD (elección de vivienda y convivientes, apoyos separados de la vivienda, control de la vida diaria); usar las residencias y los hogares protegidos solo como tránsito, con plan individual de salida | CONADIS (estrategia de desinstitucionalización) y MINSA (NTS N.° 140) | Observación general n.º 5, párr. 16 c; Directrices CRPD/C/5 (2022); CRPD/C/PER/CO/2-3, párr. 38 b y 39; Defensoría, Informe 233 | Revisión de la estrategia y de la NTS 140; diseño del modelo de AP |
 | **Directiva educativa sobre el AP en las escuelas** (Art. 34.h) | Ministerio de Educación | DS 001-2026-MIMP | Verificar si se expidió (plazo de 120 días) |
 | **Una ley de AP** que eleve a rango legal lo que hoy está en el reglamento | Congreso | Definiciones del DS 001-2026-MIMP | Antes de que se debata una ley de cuidados |
 | **Que la futura ley de cuidados se construya sobre este piso** | Congreso, MIMP y ONU Mujeres Perú | §5 de esta evaluación; Compromiso de Tlatelolco §30 | Cuando avancen los proyectos |
