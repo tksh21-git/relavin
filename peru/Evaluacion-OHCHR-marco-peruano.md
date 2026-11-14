@@ -157,11 +157,27 @@ En Colombia, la tarea es **conseguir que alguien ejecute**. En el Perú, la tare
 | **Que la futura ley de cuidados se construya sobre este piso** | Congreso, MIMP y ONU Mujeres Perú | §5 de esta evaluación; Compromiso de Tlatelolco §30 | Cuando avancen los proyectos |
 | **Seguimiento público del plan** | JICA Perú y redes de ex becarias y ex becarios | Seguimiento mensual del plan de acción | Cada mes, hasta 2027–2028 |
 
-### 8.3 Por dónde empezar
+### 8.3 Las organizaciones de personas con discapacidad dentro del proceso de salida
+
+Las residencias pequeñas no se corrigen solo con normas. Quien mejor puede acompañar la salida hacia una vida propia es **otra persona con discapacidad que ya la vive**. Esto ya lo practican los centros de vida independiente en Japón y en la región, con cuatro herramientas:
+
+- **Apoyo entre pares (consejería de pares):** personas con discapacidad que viven en la comunidad con asistencia personal visitan las residencias, los hogares protegidos y los hospitales. Escuchan, cuentan su experiencia y muestran que salir es posible.
+- **Programas de vida independiente:** formación práctica para decidir sobre la vida diaria. Incluye manejar dinero, organizar la casa, dirigir a un asistente personal y conocer los propios derechos. El punto de partida es la persona, no el diagnóstico.
+- **Acompañamiento de la transición:** un plan de salida individual, elaborado *con* la persona. Abarca la búsqueda de vivienda, las horas de asistencia personal y la red en el barrio. La organización acompaña el proceso hasta que la persona está instalada.
+- **Monitoreo independiente:** las organizaciones visitan y observan las residencias con los criterios de la CDPD: si la persona elige dónde y con quién vive, si los apoyos están separados de la vivienda, si puede salir y recibir visitas.
+
+**Recomendaciones:**
+
+1. Que la estrategia de desinstitucionalización del CONADIS y la NTS 140 del MINSA **incorporen a las organizaciones de personas con discapacidad como actoras de la transición**, y no solo como participantes de una consulta. Bases: CDPD art. 4.3 y 33.3; Observación general n.º 7; Directrices CRPD/C/5; DS 001-2026-MIMP, art. 84-A.
+2. Que el apoyo entre pares, los programas de vida independiente y el acompañamiento de la transición sean **servicios financiados**, prestados por centros de vida independiente. Base: art. 66-A.3.b, «servicios comunitarios orientados a promover la vida independiente».
+3. Que toda persona que hoy vive en una residencia o en un hogar protegido tenga un **plan individual de salida**, revisado con ella y con una organización de su elección.
+4. Que el piloto de AP incluya **personas que salen de residencias y hogares protegidos**. Así se probaría en la práctica que la asistencia personal es lo que hace posible la vida en la comunidad.
+
+### 8.4 Por dónde empezar
 
 **Estar en las sesiones de cocreación y llevar propuestas por escrito.** Es la ventana que se cierra primero: lo que no entre en el documento técnico será difícil de introducir después. Conviene llevar las tres preguntas de §7.3 y ejemplos reales de personas que hoy usan asistencia personal en el Perú.
 
-### 8.4 Lo que falta para completar la cartilla
+### 8.5 Lo que falta para completar la cartilla
 
 - Contrastar las valoraciones «prov.» con las organizaciones.
 - Saber si se expidió la directiva educativa y si hay fecha para el piloto.
