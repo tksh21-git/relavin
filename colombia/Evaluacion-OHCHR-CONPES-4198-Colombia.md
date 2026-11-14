@@ -3,6 +3,7 @@
 **Evaluación técnica** · RELAVIN · julio de 2026 · **actualizada el 14 de noviembre de 2026 (ver §7)** · Serie: observatorio de marcos de cuidados y apoyos ([Perú](../peru/Evaluacion-OHCHR-marco-peruano.md) · [Chile](../chile/Evaluacion-OHCHR-Ley-21805-Chile.md) · [Sucre](../bolivia/Guia-complementar-Ley-493-OHCHR.md) · [CDMX](https://github.com/tksh21-git/8M-Manifiesto/blob/main/Ley-CDMX-evaluacion-OHCHR.md))
 
 **Objeto evaluado:** el marco colombiano de discapacidad y apoyos — **CONPES 4198** (Política Nacional de Discapacidad 2026–2035, aprobado el 9 de junio de 2026; 175 págs., 119 acciones, $5,66 billones COP), leído junto con la **Ley 1996 de 2019** (capacidad jurídica), la **Ley 2297 de 2023** (cuidadores y asistentes personales), la Ley Estatutaria 1618 de 2013 y la Ley 1145 de 2007 (SND).
+
 **Instrumento:** *Herramienta de Evaluación a Nivel País* (ACNUDH, 2026, HR/PUB/25/3).
 
 > **Doble medición (noviembre de 2026):** **texto ~65–70% · implementación ~20–25% (provisional)**.
