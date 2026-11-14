@@ -123,7 +123,7 @@ No hay canal de inscripción ni fecha de pagos de la transferencia. El decreto n
 
 En julio, esta serie puntuó solo el **texto**, para poder comparar normas de países con información muy desigual sobre su ejecución. El resultado tiene un sesgo conocido: **premia a los países que escriben buenas normas aunque no las cumplan**. En Colombia lo dicen así: *el país escribe leyes muy bonitas*. Por eso, desde esta actualización, cada indicador lleva **dos columnas**.
 
-Escala: ✅ = 1 · ⚠️ = 0,5 · ❌ = 0. «Prov.» indica una valoración sin verificación en terreno, pendiente de contraste con las organizaciones.
+Escala: ✅ = 1 · ⚠️ = 0,5 (funciona en parte, o hay un proceso formal en curso con responsable y calendario) · ❌ = 0. «Prov.» indica una valoración sin verificación en terreno, pendiente de contraste con las organizaciones.
 
 | # | Indicador | Texto (nov) | Implementación (nov) |
 |---|---|---|---|
@@ -144,6 +144,8 @@ Escala: ✅ = 1 · ⚠️ = 0,5 · ❌ = 0. «Prov.» indica una valoración sin
 **Texto: ~65–70% (sin cambios) · Implementación: ~20–25% (3 de 13; provisional).**
 
 Colombia pasa a ser el caso más claro de la serie de **«norma vigente sin ejecutor»**: el texto más alineado con la CDPD y la distancia más grande entre lo escrito y lo hecho. Los tres indicadores centrales para la vida independiente están en **cero en implementación**: apoyo humano, desinstitucionalización y transferencias. La única excepción parcial es la capacidad jurídica, que no depende del CONPES sino de una ley que ya se aplica.
+
+**Contraste con el Perú** ([evaluación actualizada](../peru/Evaluacion-OHCHR-marco-peruano.md)): texto ~55–60%, implementación ~45–50%. El Perú tiene una norma más modesta, pero el modelo de AP está en cocreación con responsable y calendario. La distancia entre texto e implementación es de unos 10 puntos en el Perú y de unos 45 en Colombia.
 
 *Las demás evaluaciones de la serie se irán completando con la columna de implementación.*
 
