@@ -2,7 +2,7 @@
 
 **23 al 29 de noviembre de 2026**
 
-_Última actualización: 13 de noviembre de 2026 (tarde). Las actividades marcadas como «por confirmar» todavía pueden cambiar._
+_Última actualización: 16 de noviembre de 2026. Las actividades marcadas como «provisional» o «por confirmar» todavía pueden cambiar._
 
 ---
 
@@ -11,7 +11,8 @@ _Última actualización: 13 de noviembre de 2026 (tarde). Las actividades marcad
 | Fecha | Hora | Actividad | Lugar | Estado |
 |---|---|---|---|---|
 | Lun 23 | madrugada | Llegada a Lima | — | Confirmado |
-| Mar 24 | tarde | Encuentro SODIS × grupo de vida independiente | SODIS | Por confirmar la hora |
+| Lun 23 | 15:00 | Reunión con ONU Mujeres Perú | Oficina de la Asociación LCVM, Rímac | Provisional |
+| Mar 24 | 15:00 | Encuentro SODIS × grupo de vida independiente | Espacio de reuniones de SODIS | Provisional |
 | Mié 25 | 15:00 | Reunión con la Presidencia del CONADIS | CONADIS, sede Lince (Av. Paseo de la República 2550) | Confirmado |
 | Jue 26 | 10:00 | Reunión en JICA Perú | Oficina de JICA Perú | Confirmado |
 | Jue 26 | 15:00 – 17:00 | Sesión de cocreación del Modelo de Servicio de Asistencia Personal | CONADIS, sede Paseo de la República | Confirmado |
@@ -21,11 +22,19 @@ _Última actualización: 13 de noviembre de 2026 (tarde). Las actividades marcad
 
 ## Detalle
 
-### Martes 24 de noviembre — SODIS
+### Lunes 23 de noviembre — ONU Mujeres Perú (15:00)
+
+- **Qué:** reunión con Karina Huaraca Bruno (ONU Mujeres Perú), como continuación de la reunión virtual del 22 de septiembre de 2026.
+- **Dónde:** oficina de la Asociación Luchando Contra Viento y Marea (LCVM), **Jr. Lambayeque 279, Rímac** (número por confirmar).
+- **Hora:** 15:00.
+- **Estado:** provisional.
+
+### Martes 24 de noviembre — SODIS (15:00)
 
 - **Qué:** encuentro entre SODIS y el grupo de vida independiente, personas ex becarias de JICA, como Astrid Flores. Compartir cómo se está iniciando la implementación de la asistencia personal en el Perú, por iniciativa del CONADIS, y cómo podemos impulsar ese trabajo.
-- **Dónde:** espacio de SODIS.
-- **Hora:** por la tarde (por confirmar con Andrea Burga).
+- **Dónde:** espacio de reuniones de SODIS (dirección por confirmar con Andrea Burga).
+- **Hora:** 15:00.
+- **Estado:** provisional.
 
 ### Miércoles 25 de noviembre — CONADIS, Presidencia
 
@@ -52,7 +61,6 @@ _Última actualización: 13 de noviembre de 2026 (tarde). Las actividades marcad
 
 ## Otras reuniones en coordinación (sin fecha)
 
-- ONU Mujeres Perú
 - Congreso de la República
 
 ---
