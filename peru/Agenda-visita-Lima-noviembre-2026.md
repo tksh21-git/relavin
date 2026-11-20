@@ -2,7 +2,7 @@
 
 **23 al 29 de noviembre de 2026**
 
-_Última actualización: 16 de noviembre de 2026. Las actividades marcadas como «por confirmar» todavía pueden cambiar._
+_Última actualización: 20 de noviembre de 2026. Las actividades marcadas como «por confirmar» todavía pueden cambiar._
 
 ---
 
@@ -11,7 +11,7 @@ _Última actualización: 16 de noviembre de 2026. Las actividades marcadas como 
 | Fecha | Hora | Actividad | Lugar | Estado |
 |---|---|---|---|---|
 | Lun 23 | madrugada | Llegada a Lima | — | Confirmado |
-| Lun 23 | 15:00 | Reunión con ONU Mujeres Perú | Oficina de la Asociación LCVM, Rímac | Por confirmar |
+| Lun 23 | 15:00 | Reunión en la oficina de la Asociación LCVM | Oficina de la Asociación LCVM, Rímac | Confirmado |
 | Mar 24 | 15:00 | Encuentro SODIS × grupo de vida independiente | Espacio de reuniones de SODIS | Por confirmar |
 | Mié 25 | 15:00 | Reunión con la Presidencia del CONADIS | CONADIS, sede Lince (Av. Paseo de la República 2550) | Confirmado |
 | Jue 26 | 10:00 | Reunión en JICA Perú | Oficina de JICA Perú | Confirmado |
@@ -22,12 +22,11 @@ _Última actualización: 16 de noviembre de 2026. Las actividades marcadas como 
 
 ## Detalle
 
-### Lunes 23 de noviembre — ONU Mujeres Perú (15:00)
+### Lunes 23 de noviembre — Oficina de la Asociación LCVM (15:00)
 
-- **Qué:** reunión con Karina Huaraca Bruno (ONU Mujeres Perú), como continuación de la reunión virtual del 22 de septiembre de 2026.
-- **Dónde:** oficina de la Asociación Luchando Contra Viento y Marea (LCVM), **Jr. Lambayeque 279, Rímac** (número por confirmar).
+- **Qué:** reunión en la oficina de la Asociación Luchando Contra Viento y Marea (LCVM), con Bárbara Ventura.
+- **Dónde:** **Jr. Lambayeque 279, Rímac** (número por confirmar).
 - **Hora:** 15:00.
-- **Estado:** por confirmar.
 
 ### Martes 24 de noviembre — SODIS (15:00)
 
