@@ -12,7 +12,7 @@ _Última actualización: 20 de noviembre de 2026. Las actividades marcadas como 
 |---|---|---|---|---|
 | Lun 23 | madrugada | Llegada a Lima | — | Confirmado |
 | Lun 23 | 15:00 | Reunión en la oficina de la Asociación LCVM | Oficina de la Asociación LCVM, Rímac | Confirmado |
-| Mar 24 | 15:00 | Encuentro SODIS × grupo de vida independiente | Espacio de reuniones de SODIS | Por confirmar |
+| Mar 24 | 15:00 | Encuentro SODIS × grupo de vida independiente | Espacio de reuniones de SODIS | Confirmado |
 | Mié 25 | 15:00 | Reunión con la Presidencia del CONADIS | CONADIS, sede Lince (Av. Paseo de la República 2550) | Confirmado |
 | Jue 26 | 10:00 | Reunión en JICA Perú | Oficina de JICA Perú | Confirmado |
 | Jue 26 | 15:00 – 17:00 | Sesión de cocreación del Modelo de Servicio de Asistencia Personal | CONADIS, sede Paseo de la República | Confirmado |
@@ -33,7 +33,7 @@ _Última actualización: 20 de noviembre de 2026. Las actividades marcadas como 
 - **Qué:** encuentro entre SODIS y el grupo de vida independiente, personas ex becarias de JICA, como Astrid Flores. Compartir cómo se está iniciando la implementación de la asistencia personal en el Perú, por iniciativa del CONADIS, y cómo podemos impulsar ese trabajo.
 - **Dónde:** espacio de reuniones de SODIS (dirección por confirmar con Andrea Burga).
 - **Hora:** 15:00.
-- **Estado:** por confirmar.
+- **Estado:** confirmado.
 
 ### Miércoles 25 de noviembre — CONADIS, Presidencia
 
