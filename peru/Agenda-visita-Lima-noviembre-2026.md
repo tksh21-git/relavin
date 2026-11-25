@@ -12,7 +12,7 @@ _Última actualización: 24 de noviembre de 2026. Las actividades marcadas como 
 |---|---|---|---|---|
 | Lun 23 | madrugada | Llegada a Lima | — | Confirmado |
 | Lun 23 | 15:00 | Reunión en la oficina de la Asociación LCVM | Oficina de la Asociación LCVM, Rímac | Confirmado |
-| Mar 24 | 14:00 | Reunión con ONU Mujeres Perú (Karina Huaraca) | Oficina de SODIS, Miraflores | Realizada |
+| Mar 24 | 14:00 | Reunión con ONU Mujeres Perú (Karina Huaraca) | Oficina de SODIS, Miraflores | Confirmado |
 | Mar 24 | 15:00 | Encuentro SODIS × grupo de vida independiente | Espacio de reuniones de SODIS | Confirmado |
 | Mié 25 | 15:00 | Reunión con la Presidencia del CONADIS | CONADIS, sede Lince (Av. Paseo de la República 2550) | Confirmado |
 | Jue 26 | 10:00 | Reunión en JICA Perú | Oficina de JICA Perú | Confirmado |
@@ -34,7 +34,8 @@ _Última actualización: 24 de noviembre de 2026. Las actividades marcadas como 
 
 - **Qué:** reunión con Karina Huaraca, de ONU Mujeres Perú, como continuación de la reunión virtual de septiembre con el grupo de vida independiente. ONU Mujeres se comprometió a colaborar a partir de 2027.
 - **Dónde:** oficina de SODIS, Av. Arequipa 4130, Of. 504, Miraflores.
-- **Estado:** realizada.
+- **Hora:** 14:00.
+- **Estado:** confirmado.
 
 ### Martes 24 de noviembre — SODIS (15:00)
 
