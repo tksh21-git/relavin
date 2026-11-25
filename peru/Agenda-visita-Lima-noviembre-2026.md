@@ -2,7 +2,7 @@
 
 **23 al 29 de noviembre de 2026**
 
-_Última actualización: 20 de noviembre de 2026. Las actividades marcadas como «por confirmar» todavía pueden cambiar._
+_Última actualización: 24 de noviembre de 2026. Las actividades marcadas como «por confirmar» todavía pueden cambiar._
 
 ---
 
@@ -12,10 +12,12 @@ _Última actualización: 20 de noviembre de 2026. Las actividades marcadas como 
 |---|---|---|---|---|
 | Lun 23 | madrugada | Llegada a Lima | — | Confirmado |
 | Lun 23 | 15:00 | Reunión en la oficina de la Asociación LCVM | Oficina de la Asociación LCVM, Rímac | Confirmado |
+| Mar 24 | 14:00 | Reunión con ONU Mujeres Perú (Karina Huaraca) | Oficina de SODIS, Miraflores | Realizada |
 | Mar 24 | 15:00 | Encuentro SODIS × grupo de vida independiente | Espacio de reuniones de SODIS | Confirmado |
 | Mié 25 | 15:00 | Reunión con la Presidencia del CONADIS | CONADIS, sede Lince (Av. Paseo de la República 2550) | Confirmado |
 | Jue 26 | 10:00 | Reunión en JICA Perú | Oficina de JICA Perú | Confirmado |
 | Jue 26 | 15:00 – 17:00 | Sesión de cocreación del Modelo de Servicio de Asistencia Personal | CONADIS, sede Paseo de la República | Confirmado |
+| Vie 27 | 11:30 | Reunión con el Presidente de la Cámara de Diputados | Congreso de la República | Confirmado |
 | Dom 29 | 23:50 | Salida hacia Santiago de Chile (LATAM LA509) | Aeropuerto Jorge Chávez | Confirmado |
 
 ---
@@ -28,10 +30,16 @@ _Última actualización: 20 de noviembre de 2026. Las actividades marcadas como 
 - **Dónde:** **Jr. Lambayeque 279, Rímac** (número por confirmar).
 - **Hora:** 15:00.
 
+### Martes 24 de noviembre — ONU Mujeres Perú (14:00)
+
+- **Qué:** reunión con Karina Huaraca, de ONU Mujeres Perú, como continuación de la reunión virtual de septiembre con el grupo de vida independiente. ONU Mujeres se comprometió a colaborar a partir de 2027.
+- **Dónde:** oficina de SODIS, Av. Arequipa 4130, Of. 504, Miraflores.
+- **Estado:** realizada.
+
 ### Martes 24 de noviembre — SODIS (15:00)
 
 - **Qué:** encuentro entre SODIS y el grupo de vida independiente, personas ex becarias de JICA, como Astrid Flores. Compartir cómo se está iniciando la implementación de la asistencia personal en el Perú, por iniciativa del CONADIS, y cómo podemos impulsar ese trabajo.
-- **Dónde:** espacio de reuniones de SODIS (dirección por confirmar con Andrea Burga).
+- **Dónde:** oficina de SODIS, Av. Arequipa 4130, Of. 504, Miraflores.
 - **Hora:** 15:00.
 - **Estado:** confirmado.
 
@@ -56,11 +64,11 @@ _Última actualización: 20 de noviembre de 2026. Las actividades marcadas como 
 - ⚠️ El CONADIS tiene dos sedes en Lima. La sesión **no** es en la sede de Av. Arequipa.
 - Takeshi presentará un breve video sobre la asistencia personal.
 
----
+### Viernes 27 de noviembre — Congreso de la República (11:30)
 
-## Otras reuniones en coordinación (sin fecha)
-
-- Congreso de la República
+- **Qué:** reunión con el Presidente de la Cámara de Diputados, Sr. Óscar Reto Otero, sobre los proyectos de ley pendientes en materia de discapacidad.
+- **Participan:** Takeshi Inoue, Paula (SODIS), Bárbara Ventura.
+- **Hora:** 11:30.
 
 ---
 
